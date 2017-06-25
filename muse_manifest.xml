@@ -1,0 +1,363 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="koiakola.tk" resolutions="1x,2x" timestamp="1497291539116">
+  <folder name="css">
+    <file name="site_global.css" crc="216708030"/>
+    <file name="master_a-master-english.css" crc="222238533" ref="about:news:contacts:index:services"/>
+    <file name="nomq_preview_master_a-master-english.css" crc="3794601236" ref="about:news:contacts:index:services"/>
+    <file name="about.css" crc="4055501872" ref="about"/>
+    <file name="nomq_about.css" crc="197054268" ref="about"/>
+    <file name="iefonts_about.css" crc="4279146020" ref="about"/>
+    <file name="news.css" crc="500420468" ref="news"/>
+    <file name="nomq_news.css" crc="3971832971" ref="news"/>
+    <file name="contacts.css" crc="227722474" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="4025656319" ref="contacts"/>
+    <file name="iefonts_contacts.css" crc="4279146020" ref="contacts"/>
+    <file name="index.css" crc="4196893100" ref="index"/>
+    <file name="nomq_index.css" crc="519635749" ref="index"/>
+    <file name="iefonts_index.css" crc="4279146020" ref="index"/>
+    <file name="contacts-bg.css" crc="4022082403" ref="contacts-bg"/>
+    <file name="nomq_contacts-bg.css" crc="499053531" ref="contacts-bg"/>
+    <file name="iefonts_contacts-bg.css" crc="4279146020" ref="contacts-bg"/>
+    <file name="services.css" crc="4239824835" ref="services"/>
+    <file name="nomq_services.css" crc="3779493670" ref="services"/>
+    <file name="master_b-master-bulgarian.css" crc="4275538650" ref="bulgarian-home"/>
+    <file name="nomq_preview_master_b-master-bulgarian.css" crc="4127689413" ref="bulgarian-home"/>
+    <file name="bulgarian-home.css" crc="58248535" ref="bulgarian-home"/>
+    <file name="nomq_bulgarian-home.css" crc="4029098446" ref="bulgarian-home"/>
+    <file name="iefonts_bulgarian-home.css" crc="4279146020" ref="bulgarian-home"/>
+  </folder>
+  <folder name="assets">
+    <file name="timelapse-video-background.mp4" crc="3774159195" seo="true" mt="1495739614000"/>
+    <file name="samplegif.gif" crc="137610747" seo="true" mt="1393580174000"/>
+    <file name="backgroundbluetoorange.jpg" crc="412226527" seo="true" mt="1496585670000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="museutils.js" crc="4148063285" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="museconfig.js" crc="172512987" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:contacts:news:services:about:bulgarian-home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:contacts:news:about:bulgarian-home"/>
+    <file name="webpro.js" crc="3986320349" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:news:bulgarian-home"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:news:bulgarian-home"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:news:bulgarian-home"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:contacts:news:services:about:bulgarian-home"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="require.js" crc="4159430777" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="form_check.php" crc="303648844" ref="contacts"/>
+    <file name="form_throttle.php" crc="236764551" ref="contacts"/>
+    <file name="form_process.php" crc="4272079531" ref="contacts"/>
+    <file name="form-u38941.php" crc="85716832" ref="contacts"/>
+    <file name="form-u49474.php" crc="4248834092" ref="contacts-bg"/>
+  </folder>
+  <folder name="images">
+    <file name="koiakolaenblueblack182x103.png" crc="4268236254" seo="true" ref="index"/>
+    <file name="koiakolaenblueblack182x103_2x.png" crc="4105538498" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacts:contacts-bg:news:services:about:bulgarian-home"/>
+    <file name="languages.png" crc="475645539" ref="index:contacts:news:bulgarian-home"/>
+    <file name="languages_2x.png" crc="4055648247" ref="index:contacts:news:bulgarian-home"/>
+    <file name="fill 11-u43533.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u63822.png" crc="404759247" ref="index"/>
+    <file name="servicesicons-crop-u50821.png" crc="3955011489" ref="index"/>
+    <file name="servicesicons-crop-u50821_2x.png" crc="3872369270" ref="index"/>
+    <file name="servicesicons-crop-u50794.png" crc="3964825531" ref="index"/>
+    <file name="servicesicons-crop-u50794_2x.png" crc="3916963852" ref="index"/>
+    <file name="servicesicons-crop-u50767.png" crc="3868383971" ref="index"/>
+    <file name="servicesicons-crop-u50767_2x.png" crc="3898688639" ref="index"/>
+    <file name="fill 11-u50953.png" crc="404759247" ref="index"/>
+    <file name="socialmediaicons-crop-u40312.png" crc="451711495" ref="index:contacts:news:services:about"/>
+    <file name="socialmediaicons-crop-u40312_2x.png" crc="4049233052" ref="index:contacts:news:services:about"/>
+    <file name="socialmediaicons-crop-u40347.png" crc="160377972" ref="index:contacts:news:services:about"/>
+    <file name="socialmediaicons-crop-u40347_2x.png" crc="489056427" ref="index:contacts:news:services:about"/>
+    <file name="socialmediaicons-crop-u40369.png" crc="4158415076" ref="index:contacts:news:services:about"/>
+    <file name="socialmediaicons-crop-u40369_2x.png" crc="38759239" ref="index:contacts:news:services:about"/>
+    <file name="koiakolaenblueblack185x104.png" crc="4028451332" seo="true" ref="index"/>
+    <file name="koiakolaenblueblack185x104_2x.png" crc="316435584" seo="true" ref="index"/>
+    <file name="fill 11-u435332.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u638222.png" crc="404759247" ref="index"/>
+    <file name="servicesicons-crop-u508212.png" crc="3938478222" ref="index"/>
+    <file name="servicesicons-crop-u50821_2x2.png" crc="483570783" ref="index"/>
+    <file name="servicesicons-crop-u507942.png" crc="3898115533" ref="index"/>
+    <file name="servicesicons-crop-u50794_2x2.png" crc="4150209958" ref="index"/>
+    <file name="servicesicons-crop-u507672.png" crc="303630429" ref="index"/>
+    <file name="servicesicons-crop-u50767_2x2.png" crc="192118357" ref="index"/>
+    <file name="fill 11-u509532.png" crc="404759247" ref="index"/>
+    <file name="koiakolaenblueblack-crop-u23314.png" crc="520824675" ref="index:contacts:news:services:about"/>
+    <file name="koiakolaenblueblack-crop-u23314_2x.png" crc="373108773" ref="index:contacts:news:services:about"/>
+    <file name="fill 11-u435333.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u638223.png" crc="404759247" ref="index"/>
+    <file name="servicesicons-crop-u508213.png" crc="15742799" ref="index"/>
+    <file name="servicesicons-crop-u50821_2x3.png" crc="367189083" ref="index"/>
+    <file name="servicesicons-crop-u507943.png" crc="243520678" ref="index"/>
+    <file name="servicesicons-crop-u50794_2x3.png" crc="92054885" ref="index"/>
+    <file name="servicesicons-crop-u507673.png" crc="353126889" ref="index"/>
+    <file name="servicesicons-crop-u50767_2x3.png" crc="3933697638" ref="index"/>
+    <file name="fill 11-u509533.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u435334.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u66591.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u66954.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u67349.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u67392.png" crc="404759247" ref="index"/>
+    <file name="servicesicons-crop-u64933.png" crc="517229733" ref="index"/>
+    <file name="servicesicons-crop-u64933_2x.png" crc="285815255" ref="index"/>
+    <file name="servicesicons-crop-u66941.png" crc="517229733" ref="index"/>
+    <file name="servicesicons-crop-u66941_2x.png" crc="285815255" ref="index"/>
+    <file name="servicesicons-crop-u67336.png" crc="517229733" ref="index"/>
+    <file name="servicesicons-crop-u67336_2x.png" crc="285815255" ref="index"/>
+    <file name="servicesicons-crop-u67379.png" crc="517229733" ref="index"/>
+    <file name="servicesicons-crop-u67379_2x.png" crc="285815255" ref="index"/>
+    <file name="servicesicons-crop-u65103.png" crc="4111584855" ref="index"/>
+    <file name="servicesicons-crop-u65103_2x.png" crc="4147566457" ref="index"/>
+    <file name="servicesicons-crop-u66944.png" crc="4111584855" ref="index"/>
+    <file name="servicesicons-crop-u66944_2x.png" crc="4147566457" ref="index"/>
+    <file name="servicesicons-crop-u67339.png" crc="4111584855" ref="index"/>
+    <file name="servicesicons-crop-u67339_2x.png" crc="4147566457" ref="index"/>
+    <file name="servicesicons-crop-u67382.png" crc="4111584855" ref="index"/>
+    <file name="servicesicons-crop-u67382_2x.png" crc="4147566457" ref="index"/>
+    <file name="servicesicons-crop-u65826.png" crc="4076663284" ref="index"/>
+    <file name="servicesicons-crop-u65826_2x.png" crc="4171793912" ref="index"/>
+    <file name="servicesicons-crop-u66948.png" crc="4076663284" ref="index"/>
+    <file name="servicesicons-crop-u66948_2x.png" crc="4171793912" ref="index"/>
+    <file name="servicesicons-crop-u67343.png" crc="4076663284" ref="index"/>
+    <file name="servicesicons-crop-u67343_2x.png" crc="4171793912" ref="index"/>
+    <file name="servicesicons-crop-u67386.png" crc="4076663284" ref="index"/>
+    <file name="servicesicons-crop-u67386_2x.png" crc="4171793912" ref="index"/>
+    <file name="koiakolaenblueblack-crop-u23335.png" crc="4167405927" ref="index:contacts:news:services:about"/>
+    <file name="koiakolaenblueblack-crop-u23335_2x.png" crc="3778831811" ref="index:contacts:news:services:about"/>
+    <file name="fill 11-u435335.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u665912.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u669542.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u673492.png" crc="404759247" ref="index"/>
+    <file name="fill 11-u673922.png" crc="404759247" ref="index"/>
+    <file name="servicesicons-crop-u649332.png" crc="4197653964" ref="index"/>
+    <file name="servicesicons-crop-u64933_2x2.png" crc="446006686" ref="index"/>
+    <file name="servicesicons-crop-u669412.png" crc="4197653964" ref="index"/>
+    <file name="servicesicons-crop-u66941_2x2.png" crc="446006686" ref="index"/>
+    <file name="servicesicons-crop-u673362.png" crc="4197653964" ref="index"/>
+    <file name="servicesicons-crop-u67336_2x2.png" crc="446006686" ref="index"/>
+    <file name="servicesicons-crop-u673792.png" crc="4197653964" ref="index"/>
+    <file name="servicesicons-crop-u67379_2x2.png" crc="446006686" ref="index"/>
+    <file name="servicesicons-crop-u651032.png" crc="349810978" ref="index"/>
+    <file name="servicesicons-crop-u65103_2x2.png" crc="503881753" ref="index"/>
+    <file name="servicesicons-crop-u669442.png" crc="349810978" ref="index"/>
+    <file name="servicesicons-crop-u66944_2x2.png" crc="503881753" ref="index"/>
+    <file name="servicesicons-crop-u673392.png" crc="349810978" ref="index"/>
+    <file name="servicesicons-crop-u67339_2x2.png" crc="503881753" ref="index"/>
+    <file name="servicesicons-crop-u673822.png" crc="349810978" ref="index"/>
+    <file name="servicesicons-crop-u67382_2x2.png" crc="503881753" ref="index"/>
+    <file name="servicesicons-crop-u658262.png" crc="295638984" ref="index"/>
+    <file name="servicesicons-crop-u65826_2x2.png" crc="371847037" ref="index"/>
+    <file name="servicesicons-crop-u669482.png" crc="295638984" ref="index"/>
+    <file name="servicesicons-crop-u66948_2x2.png" crc="371847037" ref="index"/>
+    <file name="servicesicons-crop-u673432.png" crc="295638984" ref="index"/>
+    <file name="servicesicons-crop-u67343_2x2.png" crc="371847037" ref="index"/>
+    <file name="servicesicons-crop-u673862.png" crc="295638984" ref="index"/>
+    <file name="servicesicons-crop-u67386_2x2.png" crc="371847037" ref="index"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="contacts:contacts-bg"/>
+    <file name="slit shadow 2 sharp_2x.png" crc="510555609" seo="true" ref="contacts:contacts-bg"/>
+    <file name="servicesicons-crop-u55614.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u55614_2x.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u62974.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u62974_2x.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u55612.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u55612_2x.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u62972.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u62972_2x.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u55610.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u55610_2x.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u62970.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u62970_2x.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u556142.png" crc="3938478222" ref="services"/>
+    <file name="servicesicons-crop-u55614_2x2.png" crc="483570783" ref="services"/>
+    <file name="servicesicons-crop-u629742.png" crc="3938478222" ref="services"/>
+    <file name="servicesicons-crop-u62974_2x2.png" crc="483570783" ref="services"/>
+    <file name="servicesicons-crop-u556122.png" crc="3898115533" ref="services"/>
+    <file name="servicesicons-crop-u55612_2x2.png" crc="4150209958" ref="services"/>
+    <file name="servicesicons-crop-u629722.png" crc="3898115533" ref="services"/>
+    <file name="servicesicons-crop-u62972_2x2.png" crc="4150209958" ref="services"/>
+    <file name="servicesicons-crop-u556102.png" crc="303630429" ref="services"/>
+    <file name="servicesicons-crop-u55610_2x2.png" crc="192118357" ref="services"/>
+    <file name="servicesicons-crop-u629702.png" crc="303630429" ref="services"/>
+    <file name="servicesicons-crop-u62970_2x2.png" crc="192118357" ref="services"/>
+    <file name="servicesicons-crop-u556143.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u55614_2x3.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u629743.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u62974_2x3.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u556123.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u55612_2x3.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u629723.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u62972_2x3.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u556103.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u55610_2x3.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u629703.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u62970_2x3.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u63061.png" crc="138359679" ref="services"/>
+    <file name="servicesicons-crop-u63061_2x.png" crc="3857164656" ref="services"/>
+    <file name="servicesicons-crop-u63059.png" crc="505350254" ref="services"/>
+    <file name="servicesicons-crop-u63059_2x.png" crc="182333255" ref="services"/>
+    <file name="servicesicons-crop-u63057.png" crc="274208808" ref="services"/>
+    <file name="servicesicons-crop-u63057_2x.png" crc="3929646494" ref="services"/>
+    <file name="servicesicons-crop-u556144.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u55614_2x4.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u629744.png" crc="3955011489" ref="services"/>
+    <file name="servicesicons-crop-u62974_2x4.png" crc="3872369270" ref="services"/>
+    <file name="servicesicons-crop-u556124.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u55612_2x4.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u629724.png" crc="3964825531" ref="services"/>
+    <file name="servicesicons-crop-u62972_2x4.png" crc="3916963852" ref="services"/>
+    <file name="servicesicons-crop-u556104.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u55610_2x4.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u629704.png" crc="3868383971" ref="services"/>
+    <file name="servicesicons-crop-u62970_2x4.png" crc="3898688639" ref="services"/>
+    <file name="servicesicons-crop-u556145.png" crc="129821141" ref="services"/>
+    <file name="servicesicons-crop-u55614_2x5.png" crc="3779723162" ref="services"/>
+    <file name="servicesicons-crop-u629745.png" crc="129821141" ref="services"/>
+    <file name="servicesicons-crop-u62974_2x5.png" crc="3779723162" ref="services"/>
+    <file name="servicesicons-crop-u556125.png" crc="333869302" ref="services"/>
+    <file name="servicesicons-crop-u55612_2x5.png" crc="240942920" ref="services"/>
+    <file name="servicesicons-crop-u629725.png" crc="333869302" ref="services"/>
+    <file name="servicesicons-crop-u62972_2x5.png" crc="240942920" ref="services"/>
+    <file name="servicesicons-crop-u556105.png" crc="312655835" ref="services"/>
+    <file name="servicesicons-crop-u55610_2x5.png" crc="435502573" ref="services"/>
+    <file name="servicesicons-crop-u629705.png" crc="312655835" ref="services"/>
+    <file name="servicesicons-crop-u62970_2x5.png" crc="435502573" ref="services"/>
+    <file name="martinmarinski-u75823-fr.jpg" crc="473409928" ref="about"/>
+    <file name="martinmarinski-u75823-fr_2x.jpg" crc="3946960114" ref="about"/>
+    <file name="svetlinivanov-u75968-fr.jpg" crc="4019949717" ref="about"/>
+    <file name="svetlinivanov-u75968-fr_2x.jpg" crc="4180015329" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr.jpg" crc="299618526" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr_2x.jpg" crc="232634804" ref="about"/>
+    <file name="martinmarinski-u75823-fr2.jpg" crc="253357491" ref="about"/>
+    <file name="martinmarinski-u75823-fr_2x2.jpg" crc="254719561" ref="about"/>
+    <file name="svetlinivanov-u75968-fr2.jpg" crc="4104057044" ref="about"/>
+    <file name="svetlinivanov-u75968-fr_2x2.jpg" crc="132583280" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr2.jpg" crc="172950936" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr_2x2.jpg" crc="4190243588" ref="about"/>
+    <file name="martinmarinski-u75823-fr3.jpg" crc="94185671" ref="about"/>
+    <file name="martinmarinski-u75823-fr_2x3.jpg" crc="4259028150" ref="about"/>
+    <file name="svetlinivanov-u75968-fr3.jpg" crc="3770610513" ref="about"/>
+    <file name="svetlinivanov-u75968-fr_2x3.jpg" crc="85426097" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr3.jpg" crc="3917284923" ref="about"/>
+    <file name="yavortsvetanov-u76113-fr_2x3.jpg" crc="4202827805" ref="about"/>
+    <file name="fill 11-u62385.png" crc="404759247" ref="about"/>
+    <file name="martinmarinski-u74744-fr.jpg" crc="4219386929" ref="about"/>
+    <file name="martinmarinski-u74744-fr_2x.jpg" crc="406877565" ref="about"/>
+    <file name="svetlinivanov-u74732-fr.jpg" crc="3760787624" ref="about"/>
+    <file name="svetlinivanov-u74732-fr_2x.jpg" crc="408364536" ref="about"/>
+    <file name="yavortsvetanov-u74718-fr.jpg" crc="64818287" ref="about"/>
+    <file name="yavortsvetanov-u74718-fr_2x.jpg" crc="162132971" ref="about"/>
+    <file name="fill 11-u623852.png" crc="4194944757" ref="about"/>
+    <file name="martinmarinski-u74744-fr2.jpg" crc="364205232" ref="about"/>
+    <file name="martinmarinski-u74744-fr_2x2.jpg" crc="138249931" ref="about"/>
+    <file name="svetlinivanov-u74732-fr2.jpg" crc="3933254025" ref="about"/>
+    <file name="svetlinivanov-u74732-fr_2x2.jpg" crc="3864121536" ref="about"/>
+    <file name="yavortsvetanov-u74718-fr2.jpg" crc="138110091" ref="about"/>
+    <file name="yavortsvetanov-u74718-fr_2x2.jpg" crc="3831184902" ref="about"/>
+    <file name="koiakolabgblueblack.png" crc="471215744" ref="bulgarian-home"/>
+    <file name="koiakolabgblueblack_2x.png" crc="3852355067" ref="bulgarian-home"/>
+    <file name="fill 11-u88302.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u88345.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88486.png" crc="3955011489" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88486_2x.png" crc="3872369270" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88410.png" crc="3964825531" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88410_2x.png" crc="3916963852" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88372.png" crc="3868383971" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88372_2x.png" crc="3898688639" ref="bulgarian-home"/>
+    <file name="fill 11-u88254.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82823.png" crc="289762607" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82823_2x.png" crc="4049233052" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82825.png" crc="160377972" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82825_2x.png" crc="489056427" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82821.png" crc="4158415076" ref="bulgarian-home"/>
+    <file name="socialmediaicons-crop-u82821_2x.png" crc="38759239" ref="bulgarian-home"/>
+    <file name="fill 11-u883022.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u883452.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884862.png" crc="3938478222" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88486_2x2.png" crc="483570783" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884102.png" crc="3898115533" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88410_2x2.png" crc="4150209958" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u883722.png" crc="303630429" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88372_2x2.png" crc="192118357" ref="bulgarian-home"/>
+    <file name="fill 11-u882542.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="koiakolaenblueblack-crop-u82840.png" crc="520824675" ref="bulgarian-home"/>
+    <file name="koiakolaenblueblack-crop-u82840_2x.png" crc="373108773" ref="bulgarian-home"/>
+    <file name="fill 11-u883023.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u883453.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884863.png" crc="15742799" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88486_2x3.png" crc="367189083" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884103.png" crc="243520678" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88410_2x3.png" crc="92054885" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u883723.png" crc="353126889" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88372_2x3.png" crc="3933697638" ref="bulgarian-home"/>
+    <file name="fill 11-u882543.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88412.png" crc="517229733" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88412_2x.png" crc="285815255" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88483.png" crc="517229733" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88483_2x.png" crc="285815255" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88520.png" crc="517229733" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88520_2x.png" crc="285815255" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88226.png" crc="517229733" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88226_2x.png" crc="285815255" ref="bulgarian-home"/>
+    <file name="fill 11-u883024.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88228.png" crc="4076663284" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88228_2x.png" crc="4171793912" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88510.png" crc="4076663284" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88510_2x.png" crc="4171793912" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88251.png" crc="4076663284" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88251_2x.png" crc="4171793912" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88342.png" crc="4076663284" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88342_2x.png" crc="4171793912" ref="bulgarian-home"/>
+    <file name="fill 11-u88380.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u88383.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u88292.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u88414.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88295.png" crc="4111584855" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88295_2x.png" crc="4147566457" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88352.png" crc="4111584855" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88352_2x.png" crc="4147566457" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88231.png" crc="4111584855" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88231_2x.png" crc="4147566457" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88316.png" crc="4111584855" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88316_2x.png" crc="4147566457" ref="bulgarian-home"/>
+    <file name="koiakolaenblueblack-crop-u82838.png" crc="4167405927" ref="bulgarian-home"/>
+    <file name="koiakolaenblueblack-crop-u82838_2x.png" crc="3778831811" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884122.png" crc="4197653964" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88412_2x2.png" crc="446006686" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u884832.png" crc="4197653964" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88483_2x2.png" crc="446006686" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u885202.png" crc="4197653964" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88520_2x2.png" crc="446006686" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u882262.png" crc="4197653964" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88226_2x2.png" crc="446006686" ref="bulgarian-home"/>
+    <file name="fill 11-u883025.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u882282.png" crc="295638984" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88228_2x2.png" crc="371847037" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u885102.png" crc="295638984" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88510_2x2.png" crc="371847037" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u882512.png" crc="295638984" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88251_2x2.png" crc="371847037" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u883422.png" crc="295638984" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88342_2x2.png" crc="371847037" ref="bulgarian-home"/>
+    <file name="fill 11-u883802.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u883832.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u882922.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="fill 11-u884142.png" crc="404759247" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u882952.png" crc="349810978" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88295_2x2.png" crc="503881753" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u883522.png" crc="349810978" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88352_2x2.png" crc="503881753" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u882312.png" crc="349810978" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88231_2x2.png" crc="503881753" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u883162.png" crc="349810978" ref="bulgarian-home"/>
+    <file name="servicesicons-crop-u88316_2x2.png" crc="503881753" ref="bulgarian-home"/>
+  </folder>
+  <file name="index.html" crc="399764478" seo="true" mt="1497291443428" redirect="true"/>
+  <file name="contacts.html" crc="4011044604" seo="true" mt="1497291443428" redirect="true"/>
+  <file name="contacts-bg.html" crc="133039451" seo="true" mt="1497291114590" redirect="true"/>
+  <file name="news.html" crc="501468147" seo="true" mt="1497291443428" redirect="true"/>
+  <file name="services.html" crc="521518580" seo="true" mt="1497291443428" redirect="true"/>
+  <file name="about.html" crc="311365004" seo="true" mt="1497291450679" redirect="true"/>
+  <file name="bulgarian-home.html" crc="27380084" seo="true" mt="1497291115045" redirect="true"/>
+</manifest>
